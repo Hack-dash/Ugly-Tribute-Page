@@ -1,0 +1,41 @@
+.main-nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  
+ 
+
+    
+}
+.diff{
+    margin-right: auto;
+}
+
+.social{
+    margin-left:22px ;
+    margin-top: 9px;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-size: 3.4rem;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+body{
+    margin:auto 0 ;
+    padding:auto 0;
+}
+.pp{
+    display: flex;
+}
+.eden{
+    background-size: cover;
+}
+
+.zz{
+    font-size: 1.4rem;
+    margin-left: 22px;
+}
